@@ -8,7 +8,7 @@ Built with a scalable and production-grade frontend architecture using pure HTML
 
 ## 🌐 Live Demo
 
-👉 [Visit BoloKart](https://sahidansari-tech.github.io/bolokart-web/)
+👉 [Visit BoloKart](https://bolokart.vercel.app)
 
 ---
 
